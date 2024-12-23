@@ -1,0 +1,11 @@
+article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.logo {
+  width: 500px;
+  height: auto;
+}
